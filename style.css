@@ -47,5 +47,6 @@ h3 {
 }
 li {
   padding: 5px;
+  list-style-type: square;
   
 }
